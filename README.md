@@ -9,3 +9,5 @@ Contenido:
 * [Público Objetivo](https://github.com/DavidMerino25/PracticaFrontEndLaunchX/blob/main/3.0-PublicoObjetivo/Publico%20Objetivo.jpg)
 * [Wireframe UX](https://github.com/DavidMerino25/PracticaFrontEndLaunchX/tree/main/4.0_WireframeUX)
 * [Wireframe UI](https://github.com/DavidMerino25/PracticaFrontEndLaunchX/blob/main/5.0_WireframeUI/AbogabotUI.pdf)
+
+Las actividades fueron realizadas con diferentes herramientas con el fin de adquirir conocimeintos amplios.
